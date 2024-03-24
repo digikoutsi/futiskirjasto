@@ -1,0 +1,100 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=none;fontStyle=1\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"-1.1368683772161603e-13\" width=\"64.66050807568871\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#FF8000;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1.1602540378443678\" y=\"5\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#FF8000;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"43.50025403784434\" y=\"6\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"1\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;fontStyle=1;fontSize=20;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"12.500254037844343\" width=\"40\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 64.66050807568871,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Away-GK1"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=none;fontStyle=1\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"-1.1368683772161603e-13\" width=\"64.66050807568871\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#00FFFF;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1.1602540378443678\" y=\"5\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#00FFFF;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"43.50025403784434\" y=\"6\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"1\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;fontStyle=1;fontSize=20;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"12.500254037844343\" width=\"40\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 64.66050807568865,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Away-GK2"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=none;fontStyle=1\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"64.66050807568871\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1.1602540378443678\" y=\"5\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"43.50025403784434\" y=\"6\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"2\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontStyle=1;fontSize=20;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"12.500254037844343\" width=\"40\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 64.66050807568871,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Away-Two"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=none;fontStyle=1\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"64.66050807568871\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1.1602540378443678\" y=\"5\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"43.50025403784434\" y=\"6\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"3\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontStyle=1;fontSize=20;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"12.500254037844343\" width=\"40\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 64.66050807568871,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Away-Three"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=none;fontStyle=1\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"64.66050807568871\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1.1602540378443678\" y=\"5\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"43.50025403784434\" y=\"6\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"4\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontStyle=1;fontSize=20;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"12.500254037844343\" width=\"40\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 64.66050807568871,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Away-Four"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=none;fontStyle=1\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"64.66050807568871\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1.1602540378443678\" y=\"5\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"43.50025403784434\" y=\"6\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"5\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontStyle=1;fontSize=20;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"12.500254037844343\" width=\"40\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 64.66050807568871,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Away-Five"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=none;fontStyle=1\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"64.66050807568871\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1.1602540378443678\" y=\"5\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"43.50025403784434\" y=\"6\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"6\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontStyle=1;fontSize=20;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"12.500254037844343\" width=\"40\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 64.66050807568871,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Away-Six"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=none;fontStyle=1\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"64.66050807568871\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1.1602540378443678\" y=\"5\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"43.50025403784434\" y=\"6\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"7\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontStyle=1;fontSize=20;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"12.500254037844343\" width=\"40\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 64.66050807568871,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Away-Seven"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=none;fontStyle=1\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"64.66050807568871\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1.1602540378443678\" y=\"5\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"43.50025403784434\" y=\"6\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"8\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontStyle=1;fontSize=20;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"12.500254037844343\" width=\"40\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 64.66050807568871,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Away-Eight"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=none;fontStyle=1\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"64.66050807568871\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1.1602540378443678\" y=\"5\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"43.50025403784434\" y=\"6\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"9\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontStyle=1;fontSize=20;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"12.500254037844343\" width=\"40\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 64.66050807568871,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Away-Nine"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=none;fontStyle=1\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"64.66050807568871\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1.1602540378443678\" y=\"5\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"43.50025403784434\" y=\"6\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"10\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontStyle=1;fontSize=20;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"12.500254037844343\" width=\"40\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 64.66050807568871,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Away-Ten"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=none;fontStyle=1\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"64.66050807568871\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1.1602540378443678\" y=\"5\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"43.50025403784434\" y=\"6\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"11\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontStyle=1;fontSize=20;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"12.500254037844343\" width=\"40\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 64.66050807568871,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Away-Eleven"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=none;fontStyle=1\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"-1.1368683772161603e-13\" width=\"64.66050807568871\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#000000;fontColor=#FFFFFF;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1.1602540378443678\" y=\"5\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#000000;fontColor=#FFFFFF;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"43.50025403784434\" y=\"6\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"C\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontStyle=1;fontSize=20;fontColor=#FFFFFF;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"12.500254037844343\" width=\"40\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 64.66050807568871,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Away-Coach"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fillColor=none;fontStyle=1\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"-2.2737367544323206e-13\" width=\"70.00025403784434\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#007FFF;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1.1602540378443678\" y=\"5\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;rotation=30;fillColor=#FF0080;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"43.50025403784434\" y=\"6\" width=\"20\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;fontStyle=1;fontSize=20;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"12.5\" width=\"19\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0080;fontStyle=1;fontSize=20;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"31\" width=\"19\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 70.00025403784434,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Away-Joker"
+  }
+]</mxlibrary>
